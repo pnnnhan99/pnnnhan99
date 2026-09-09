@@ -3,7 +3,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-pnnnhan99-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/pnnnhan99)
 [![GitHub followers](https://img.shields.io/github/followers/pnnnhan99?style=for-the-badge\&logo=github\&label=Followers)](https://github.com/pnnnhan99)
 [![GitHub stars](https://img.shields.io/github/stars/pnnnhan99?style=for-the-badge\&logo=github\&label=Stars)](https://github.com/pnnnhan99)
-[![Committers.top](https://user-badge.committers.top/vietnam/pnnnhan99.svg)](https://committers.top/vietnam)
 
 ---
 
