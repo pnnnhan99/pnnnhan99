@@ -22,7 +22,7 @@
 <h3 align="center">🛠 Tech Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,js,ts,nextjs,react,postgres,mysql,supabase,firebase,docker,git,githubactions" />
+  <img src="https://skillicons.dev/icons?i=openai,nextjs,laravel,yaml,firebase,aws,nodejs,supabase,php,js,ts,react,postgres,mysql,docker,git,githubactions" />
 </p>
 
 ---
