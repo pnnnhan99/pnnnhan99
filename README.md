@@ -4,8 +4,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/pnnnhan99?style=for-the-badge\&logo=github\&label=Followers)](https://github.com/pnnnhan99)
 [![GitHub stars](https://img.shields.io/github/stars/pnnnhan99?style=for-the-badge\&logo=github\&label=Stars)](https://github.com/pnnnhan99)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,100:1D9E75&height=100&section=header&text=pnnnhan99&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=55&fontAlign=50"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:ec4899&height=100&section=header&text=pnnnhan99&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=55&fontAlign=50"/>
 
 <table border="0" align="center">
   <tr valign="top">
@@ -41,5 +40,4 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/ishandutta2007/snk/output-svg-only/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,100:7c3aed&height=100&section=footer&text=BUILD%20•%20SHIP%20•%20EVOLVE&fontSize=22&fontColor=ffffff&animation=twinkling" width="100%" alt="Build ship evolve footer" />
